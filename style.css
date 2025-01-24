@@ -178,4 +178,10 @@ body {
   form button:hover {
     background: #005fa3;
   }
+
+  nav a.active {
+    font-weight: bold;
+    color: #ff6600; /* Highlight color for the active link */
+    text-decoration: underline; /* Optional underline */
+  }
   
