@@ -39,6 +39,31 @@ body {
     color: #fff;
   }
 
+  .about-container {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between the photo and text */
+  }
+  
+  .profile-photo {
+    width: 150px; /* Adjust size as needed */
+    height: 150px; /* Keep it square */
+    border-radius: 50%; /* Makes it circular */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a soft shadow */
+    object-fit: cover; /* Ensures the image scales well */
+  }
+  
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .profile-photo {
+      margin-bottom: 20px;
+    }
+  }  
+
   #projects {
     padding: 40px;
     background-color: #f9f9f9;
@@ -89,4 +114,5 @@ body {
   .project-card .btn:hover {
     background: #005fa3;
   }
+
   
