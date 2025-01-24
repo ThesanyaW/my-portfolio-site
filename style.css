@@ -122,4 +122,19 @@ body {
     background: #005fa3;
   }
 
+  .project-card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .project-tags span {
+    display: inline-block;
+    background: #007acc;
+    color: white;
+    padding: 3px 8px;
+    margin-right: 5px;
+    border-radius: 4px;
+    font-size: 0.8em;
+  }
   
