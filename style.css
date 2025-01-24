@@ -137,4 +137,24 @@ body {
     border-radius: 4px;
     font-size: 0.8em;
   }
+
+  .skills-container {
+    margin-top: 20px;
+  }
   
+  .skill {
+    margin-bottom: 20px;
+  }
+  
+  .skill-bar {
+    background-color: #e0e0e0;
+    height: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .skill-progress {
+    background-color: #007acc;
+    height: 100%;
+    border-radius: 5px;
+  }  
