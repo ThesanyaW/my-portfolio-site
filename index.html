@@ -133,9 +133,14 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>[Add contact info or a form]</p>
+    <form action="https://formspree.io/f/{your-form-id}" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="_replyto" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
   </section>
-
+  
   <footer>
     <p>&copy; 2025 Thesanya Wijayasundara</p>
   </footer>

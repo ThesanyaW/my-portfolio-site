@@ -157,4 +157,25 @@ body {
     background-color: #007acc;
     height: 100%;
     border-radius: 5px;
-  }  
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  form input, form textarea, form button {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  form button {
+    background: #007acc;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  form button:hover {
+    background: #005fa3;
+  }
+  
