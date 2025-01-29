@@ -42,10 +42,10 @@ Welcome to my personal portfolio website! 🚀 This is a showcase of my skills, 
 ✅ Contact form integrated with Formspree 📧  
 
 ## 📩 Contact Me  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/thesanya-wijayasundara-b2640a2a5/)  
-🐦 Twitter: [twitter.com/your-profile](https://twitter.com/your-profile)  
-🐙 GitHub: [github.com/your-profile](https://github.com/ThesanyaW)  
-📸 Instagram: [instagram.com/your-profile](https://instagram.com/your-profile)  
+🔗 LinkedIn: [linkedin.com/in/my-profile](https://www.linkedin.com/in/thesanya-wijayasundara-b2640a2a5/)  
+🐦 Twitter: [twitter.com/my-profile](https://twitter.com/your-profile)  
+🐙 GitHub: [github.com/my-profile](https://github.com/ThesanyaW)  
+📸 Instagram: [instagram.com/my-profile](https://instagram.com/your-profile)  
 
 ## ⭐ Support & Contribution  
 Feel free to fork this project, contribute, or just drop a ⭐ on GitHub if you like it! 💖  
