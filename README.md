@@ -1,7 +1,3 @@
-Here's your updated version with GitHub and Instagram included while removing the email reference:  
-
----
-
 # 💻 My Portfolio Website  
 
 Welcome to my personal portfolio website! 🚀 This is a showcase of my skills, projects, and professional journey. Check it out here: **[My Portfolio](https://thesanyaw.github.io/my-portfolio-site/)** 🎯  
