@@ -29,3 +29,23 @@ document.querySelectorAll('nav a').forEach(anchor => {
     });
   });
   
+  //Set a Redirect URL After Form Submission in Formspree
+  function redirectAfterSubmit(event) {
+    event.preventDefault(); // Prevents default form submission
+    const form = event.target;
+    const formData = new FormData(form);
+    
+    fetch(form.action, {
+      method: form.method,
+      body: formData,
+      headers: { 'Accept': 'application/json' }
+    }).then(response => {
+      if (response.ok) {
+        window.location.href = "https://thesanyaw.github.io/my-portfolio-site/thank-you.html"; // Redirect URL
+      } else {
+        alert("Oops! Something went wrong. Please try again.");
+      }
+    }).catch(error => {
+      console.error("Error:", error);
+    });
+  }
