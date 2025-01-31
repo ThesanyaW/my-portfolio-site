@@ -36,10 +36,10 @@ Welcome to my personal portfolio website! 🚀 This is a showcase of my skills, 
    ```  
 3. Open `index.html` in your browser and explore! 🌐  
 
-## 🎯 What's New?  
-✅ Added social media profile links 📱  
+## 🎯 What's New?    
 ✅ Improved project showcase design 🎨  
-✅ Contact form integrated with Formspree 📧  
+✅ Contact form integrated with Formspree 📧
+✅ Added social media profile links 📱
 
 ## 📩 Contact Me
 🐙 GitHub
