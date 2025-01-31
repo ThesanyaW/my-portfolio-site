@@ -41,11 +41,11 @@ Welcome to my personal portfolio website! 🚀 This is a showcase of my skills, 
 ✅ Improved project showcase design 🎨  
 ✅ Contact form integrated with Formspree 📧  
 
-## 📩 Contact Me  
-🔗 LinkedIn: [linkedin.com/in/my-profile](https://www.linkedin.com/in/thesanya-wijayasundara-b2640a2a5/)  
-🐦 Twitter: [twitter.com/my-profile](https://twitter.com/your-profile)  
-🐙 GitHub: [github.com/my-profile](https://github.com/ThesanyaW)  
-📸 Instagram: [instagram.com/my-profile](https://instagram.com/your-profile)  
+## 📩 Contact Me
+🐙 GitHub
+🔗 LinkedIn  
+🐦 Twitter  
+📸 Instagram 
 
 ## ⭐ Support & Contribution  
 Feel free to fork this project, contribute, or just drop a ⭐ on GitHub if you like it! 💖  
