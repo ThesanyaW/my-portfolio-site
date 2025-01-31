@@ -51,4 +51,4 @@ Welcome to my personal portfolio website! 🚀 This is a showcase of my skills, 
 Feel free to fork this project, contribute, or just drop a ⭐ on GitHub if you like it! 💖  
 
 ---  
-Made with 💙 by **[Thesanya Wijayasundara]** 🚀
+Made with 💙 by **Thesanya Wijayasundara** 🚀
